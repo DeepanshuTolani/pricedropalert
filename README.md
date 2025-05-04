@@ -1,4 +1,5 @@
 # 💸 Price Drop Alert System
+A Project by Deepanshu Tolani 
 
 A smart and user-friendly **Price Drop Alert System** that lets users enter their desired price for a product and notifies them via **email or SMS** when the price drops below their set threshold.  
 This tool empowers users to make informed purchasing decisions while boosting engagement and conversion rates for e-commerce platforms.
@@ -34,10 +35,9 @@ This tool empowers users to make informed purchasing decisions while boosting en
 
 ## 🛠 Tech Stack
 
-- **Backend**: Node.js / Python (Flask or Django)  
-- **Frontend**: HTML, CSS, JavaScript / React (optional)  
-- **Database**: MongoDB / Firebase / MySQL  
+- **Backend**: Python (Django)  
+- **Database**: Firebase   
 - **Notifications**: SMTP (Email), Twilio (SMS)  
-- **Web Scraping**: BeautifulSoup / Selenium / Puppeteer
+- **Web Scraping**: BeautifulSoup,Selenium, Puppeteer
 
 ---
